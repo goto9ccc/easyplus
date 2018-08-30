@@ -1,4 +1,5 @@
-# 1. 网络部署架 构![arch](src\arch.png)
+# 1. 网络部署架构
+![arch](src/arch.png)
 
 
 # 2. 开发环境
